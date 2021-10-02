@@ -1,5 +1,8 @@
-# Fintech-better.com
+# Better.com
+---
+By: Carl Buchholz
 
+---
 ## Overview and Origin
 
 Better.com was incorporated in 2016. 
